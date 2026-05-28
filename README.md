@@ -1,2 +1,2 @@
 # first
-my firest demo in git
+my firest demo in git.
